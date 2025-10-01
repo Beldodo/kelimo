@@ -1,0 +1,191 @@
+[
+  {
+    "username": "a",
+    "password": "1",
+    "profileImage": "/uploads/avatars/doganbiber150x188-1749804212412.jpg",
+    "stats": {
+      "totalGames": 482,
+      "wins": 69,
+      "losses": 413,
+      "recentGames": [
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-09-30T07:20:30.863Z"
+        },
+        {
+          "score": 2,
+          "result": "Win",
+          "date": "2025-09-30T07:20:03.340Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-09-26T11:20:55.130Z"
+        },
+        {
+          "score": 57,
+          "result": "Win",
+          "date": "2025-09-25T12:14:17.134Z"
+        },
+        {
+          "score": 47,
+          "result": "Win",
+          "date": "2025-09-25T11:06:02.282Z"
+        },
+        {
+          "score": 53,
+          "result": "Win",
+          "date": "2025-09-25T10:55:03.480Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-09-25T08:06:36.948Z"
+        },
+        {
+          "score": 2,
+          "result": "Win",
+          "date": "2025-07-02T12:51:19.306Z"
+        },
+        {
+          "score": 16,
+          "result": "Loss",
+          "date": "2025-07-02T08:06:07.693Z"
+        },
+        {
+          "score": 22,
+          "result": "Win",
+          "date": "2025-07-01T14:54:45.633Z"
+        }
+      ]
+    }
+  },
+  {
+    "username": "b",
+    "password": "2",
+    "profileImage": "/uploads/avatars/nihatkalfazade150x188-1749804201727.jpg",
+    "stats": {
+      "totalGames": 511,
+      "wins": 58,
+      "losses": 453,
+      "recentGames": [
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-09-30T07:20:30.938Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-09-30T07:20:03.247Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-09-26T11:20:55.052Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-09-25T08:06:37.010Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-09-25T08:06:36.930Z"
+        },
+        {
+          "score": 2,
+          "result": "Loss",
+          "date": "2025-09-25T08:05:53.790Z"
+        },
+        {
+          "score": 2,
+          "result": "Loss",
+          "date": "2025-09-25T08:05:53.725Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-07-03T08:00:48.770Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-07-03T08:00:48.691Z"
+        },
+        {
+          "score": 2,
+          "result": "Win",
+          "date": "2025-07-02T12:35:33.174Z"
+        }
+      ]
+    }
+  },
+  {
+    "username": "beldodo",
+    "password": "1234",
+    "profileImage": "https://i.pravatar.cc/100?u=beldodo",
+    "stats": {
+      "totalGames": 7,
+      "wins": 2,
+      "losses": 5,
+      "recentGames": [
+        {
+          "score": 42,
+          "result": "Loss",
+          "date": "2025-09-25T11:06:02.377Z"
+        },
+        {
+          "score": 42,
+          "result": "Loss",
+          "date": "2025-09-25T11:06:02.279Z"
+        },
+        {
+          "score": 50,
+          "result": "Loss",
+          "date": "2025-09-25T10:55:03.580Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-07-02T12:51:19.396Z"
+        },
+        {
+          "score": 2,
+          "result": "Win",
+          "date": "2025-06-13T09:04:22.688Z"
+        },
+        {
+          "score": 2,
+          "result": "Win",
+          "date": "2025-06-13T09:04:22.679Z"
+        },
+        {
+          "score": 0,
+          "result": "Loss",
+          "date": "2025-06-13T09:03:49.921Z"
+        }
+      ]
+    }
+  },
+  {
+    "username": "Gül",
+    "password": "1111",
+    "profileImage": "https://ui-avatars.com/api/?name=G%C3%BCl&background=random&bold=true",
+    "stats": {
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  {
+    "username": "sergino",
+    "password": "1234",
+    "profileImage": "/uploads/avatars/Ekrangrnts20250220155133-1758801588814.png",
+    "stats": {
+      "wins": 0,
+      "losses": 0
+    }
+  }
+]

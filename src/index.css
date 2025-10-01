@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100dvh;
+  min-height: 100%;
+  overflow: auto;
+}
+.dragging-letter {
+  opacity: 0.6;
+  transform: scale(1.1);
+  cursor: grabbing;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+body * {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+/* input, textarea ve button dışındakiler seçilmesin */
+body *:not(input):not(textarea):not(button) {
+  user-select: none;
+}

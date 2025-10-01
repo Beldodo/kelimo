@@ -1,0 +1,366 @@
+[
+  {
+    "gameId": "1759314242886_a_b",
+    "status": "ongoing",
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759314242886,
+    "remainingTime": null,
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "A",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "F",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 3,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "finalTurnTriggered": false,
+        "gameId": "1759314242886_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "A",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 2,
+        "myTurn": true,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": "F",
+        "tempLetterPlacement": null,
+        "finalTurnTriggered": false,
+        "gameId": "1759314242886_a_b"
+      }
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759315747526_b_a",
+    "status": "ongoing",
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759315747526,
+    "remainingTime": null,
+    "players": [
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": "A",
+        "tempLetterPlacement": null,
+        "finalTurnTriggered": false,
+        "gameId": "1759315747526_b_a"
+      },
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "A",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 2,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "finalTurnTriggered": false,
+        "gameId": "1759315747526_b_a"
+      }
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  }
+]

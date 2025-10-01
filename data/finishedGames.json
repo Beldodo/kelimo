@@ -1,0 +1,7756 @@
+[
+  {
+    "gameId": "1759216808707_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "playerDetails": {
+      "a": [],
+      "b": []
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "G",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "G",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1759216830825,
+    "winner": null,
+    "startTime": 1759216808707,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1759215658766_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 0,
+      "a": 2
+    },
+    "playerDetails": {
+      "b": [],
+      "a": [
+        {
+          "word": "da",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 3 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "D",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "D",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "D",
+          "A",
+          ""
+        ],
+        [
+          "",
+          "D",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1759216803223,
+    "winner": "a",
+    "startTime": 1759215658766,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1758885647862_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "playerDetails": {
+      "b": [],
+      "a": []
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1758885655016,
+    "winner": null,
+    "startTime": 1758885647863,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1758801931746_sergino_a",
+    "players": [
+      "a",
+      "sergino"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 57,
+      "sergino": 51
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "batak",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "satır 1 (1-5)"
+        },
+        {
+          "word": "abu",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "satır 2 (1-3)"
+        },
+        {
+          "word": "ta",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "satır 2 (4-5)"
+        },
+        {
+          "word": "kayıt",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "satır 3 (1-5)"
+        },
+        {
+          "word": "al",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 4 (1-2)"
+        },
+        {
+          "word": "mı",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "satır 4 (4-5)"
+        },
+        {
+          "word": "nazır",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "satır 5 (1-5)"
+        },
+        {
+          "word": "bakan",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "sütun 1 (1-5)"
+        },
+        {
+          "word": "ab",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 2 (1-2)"
+        },
+        {
+          "word": "ala",
+          "start": 2,
+          "end": 5,
+          "score": 3,
+          "type": "sütun 2 (3-5)"
+        },
+        {
+          "word": "tu",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 3 (1-2)"
+        },
+        {
+          "word": "uz",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "sütun 3 (4-5)"
+        },
+        {
+          "word": "at",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 4 (1-2)"
+        },
+        {
+          "word": "mı",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "sütun 4 (4-5)"
+        },
+        {
+          "word": "katır",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "sütun 5 (1-5)"
+        }
+      ],
+      "sergino": [
+        {
+          "word": "bunak",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "satır 1 (1-5)"
+        },
+        {
+          "word": "alaka",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "satır 2 (1-5)"
+        },
+        {
+          "word": "yatır",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "satır 3 (1-5)"
+        },
+        {
+          "word": "mı",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "satır 4 (2-3)"
+        },
+        {
+          "word": "tabut",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "satır 5 (1-5)"
+        },
+        {
+          "word": "ayıt",
+          "start": 1,
+          "end": 5,
+          "score": 4,
+          "type": "sütun 1 (2-5)"
+        },
+        {
+          "word": "ulama",
+          "start": 0,
+          "end": 5,
+          "score": 7,
+          "type": "sütun 2 (1-5)"
+        },
+        {
+          "word": "na",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 3 (1-2)"
+        },
+        {
+          "word": "akı",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 4 (1-3)"
+        },
+        {
+          "word": "kar",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 5 (1-3)"
+        },
+        {
+          "word": "at",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "sütun 5 (4-5)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "B",
+          "A",
+          "T",
+          "A",
+          "K"
+        ],
+        [
+          "A",
+          "B",
+          "U",
+          "T",
+          "A"
+        ],
+        [
+          "K",
+          "A",
+          "Y",
+          "I",
+          "T"
+        ],
+        [
+          "A",
+          "L",
+          "U",
+          "M",
+          "I"
+        ],
+        [
+          "N",
+          "A",
+          "Z",
+          "I",
+          "R"
+        ]
+      ],
+      "sergino": [
+        [
+          "B",
+          "U",
+          "N",
+          "A",
+          "K"
+        ],
+        [
+          "A",
+          "L",
+          "A",
+          "K",
+          "A"
+        ],
+        [
+          "Y",
+          "A",
+          "T",
+          "I",
+          "R"
+        ],
+        [
+          "I",
+          "M",
+          "I",
+          "Z",
+          "A"
+        ],
+        [
+          "T",
+          "A",
+          "B",
+          "U",
+          "T"
+        ]
+      ]
+    },
+    "endedAt": 1758802457092,
+    "winner": "a",
+    "startTime": 1758801931747,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1758797875540_beldodo_a",
+    "players": [
+      "a",
+      "beldodo"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 47,
+      "beldodo": 42
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "kam",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "satır 1 (1-3)"
+        },
+        {
+          "word": "ur",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "satır 1 (4-5)"
+        },
+        {
+          "word": "ur",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 2 (1-2)"
+        },
+        {
+          "word": "dam",
+          "start": 2,
+          "end": 5,
+          "score": 3,
+          "type": "satır 3 (3-5)"
+        },
+        {
+          "word": "uz",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 4 (1-2)"
+        },
+        {
+          "word": "mu",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "satır 4 (4-5)"
+        },
+        {
+          "word": "maraz",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "satır 5 (1-5)"
+        },
+        {
+          "word": "kurum",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 1 (1-5)"
+        },
+        {
+          "word": "arıza",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 2 (1-5)"
+        },
+        {
+          "word": "müdür",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 3 (1-5)"
+        },
+        {
+          "word": "ama",
+          "start": 2,
+          "end": 5,
+          "score": 3,
+          "type": "sütun 4 (3-5)"
+        },
+        {
+          "word": "rumuz",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 5 (1-5)"
+        }
+      ],
+      "beldodo": [
+        {
+          "word": "kumar",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "satır 1 (1-5)"
+        },
+        {
+          "word": "ar",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "satır 2 (3-4)"
+        },
+        {
+          "word": "mı",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 3 (1-2)"
+        },
+        {
+          "word": "dü",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "satır 3 (3-4)"
+        },
+        {
+          "word": "az",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 4 (1-2)"
+        },
+        {
+          "word": "ar",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "satır 4 (3-4)"
+        },
+        {
+          "word": "rumuz",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "satır 5 (1-5)"
+        },
+        {
+          "word": "kumar",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 1 (1-5)"
+        },
+        {
+          "word": "madam",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 3 (1-5)"
+        },
+        {
+          "word": "ar",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 4 (1-2)"
+        },
+        {
+          "word": "rumuz",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 5 (1-5)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "K",
+          "A",
+          "M",
+          "U",
+          "R"
+        ],
+        [
+          "U",
+          "R",
+          "Ü",
+          "U",
+          "U"
+        ],
+        [
+          "R",
+          "I",
+          "D",
+          "A",
+          "M"
+        ],
+        [
+          "U",
+          "Z",
+          "Ü",
+          "M",
+          "U"
+        ],
+        [
+          "M",
+          "A",
+          "R",
+          "A",
+          "Z"
+        ]
+      ],
+      "beldodo": [
+        [
+          "K",
+          "U",
+          "M",
+          "A",
+          "R"
+        ],
+        [
+          "U",
+          "Ü",
+          "A",
+          "R",
+          "U"
+        ],
+        [
+          "M",
+          "I",
+          "D",
+          "Ü",
+          "M"
+        ],
+        [
+          "A",
+          "Z",
+          "A",
+          "R",
+          "U"
+        ],
+        [
+          "R",
+          "U",
+          "M",
+          "U",
+          "Z"
+        ]
+      ]
+    },
+    "endedAt": 1758798362263,
+    "winner": "a",
+    "startTime": 1758797875541,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1758797270389_beldodo_a",
+    "players": [
+      "a",
+      "beldodo"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 53,
+      "beldodo": 50
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "özgür",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "satır 1 (1-5)"
+        },
+        {
+          "word": "re",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 2 (1-2)"
+        },
+        {
+          "word": "ut",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "satır 2 (3-4)"
+        },
+        {
+          "word": "durum",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "satır 3 (1-5)"
+        },
+        {
+          "word": "et",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 4 (1-2)"
+        },
+        {
+          "word": "ulu",
+          "start": 2,
+          "end": 5,
+          "score": 3,
+          "type": "satır 4 (3-5)"
+        },
+        {
+          "word": "kiraz",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "satır 5 (1-5)"
+        },
+        {
+          "word": "ördek",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 1 (1-5)"
+        },
+        {
+          "word": "ze",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 2 (1-2)"
+        },
+        {
+          "word": "ut",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "sütun 2 (3-4)"
+        },
+        {
+          "word": "gurur",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 3 (1-5)"
+        },
+        {
+          "word": "tu",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "sütun 4 (2-3)"
+        },
+        {
+          "word": "la",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "sütun 4 (4-5)"
+        },
+        {
+          "word": "rumuz",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 5 (1-5)"
+        }
+      ],
+      "beldodo": [
+        {
+          "word": "ördek",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "satır 1 (1-5)"
+        },
+        {
+          "word": "le",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "satır 2 (4-5)"
+        },
+        {
+          "word": "gurur",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "satır 3 (1-5)"
+        },
+        {
+          "word": "tu",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "satır 4 (2-3)"
+        },
+        {
+          "word": "ti",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "satır 4 (4-5)"
+        },
+        {
+          "word": "rumuz",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "satır 5 (1-5)"
+        },
+        {
+          "word": "özgür",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 1 (1-5)"
+        },
+        {
+          "word": "ra",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 2 (1-2)"
+        },
+        {
+          "word": "ut",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "sütun 2 (3-4)"
+        },
+        {
+          "word": "durum",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 3 (1-5)"
+        },
+        {
+          "word": "el",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 4 (1-2)"
+        },
+        {
+          "word": "ut",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "sütun 4 (3-4)"
+        },
+        {
+          "word": "keriz",
+          "start": 0,
+          "end": 5,
+          "score": 6,
+          "type": "sütun 5 (1-5)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "Ö",
+          "Z",
+          "G",
+          "Ü",
+          "R"
+        ],
+        [
+          "R",
+          "E",
+          "U",
+          "T",
+          "U"
+        ],
+        [
+          "D",
+          "U",
+          "R",
+          "U",
+          "M"
+        ],
+        [
+          "E",
+          "T",
+          "U",
+          "L",
+          "U"
+        ],
+        [
+          "K",
+          "İ",
+          "R",
+          "A",
+          "Z"
+        ]
+      ],
+      "beldodo": [
+        [
+          "Ö",
+          "R",
+          "D",
+          "E",
+          "K"
+        ],
+        [
+          "Z",
+          "A",
+          "U",
+          "L",
+          "E"
+        ],
+        [
+          "G",
+          "U",
+          "R",
+          "U",
+          "R"
+        ],
+        [
+          "Ü",
+          "T",
+          "U",
+          "T",
+          "İ"
+        ],
+        [
+          "R",
+          "U",
+          "M",
+          "U",
+          "Z"
+        ]
+      ]
+    },
+    "endedAt": 1758797703455,
+    "winner": "a",
+    "startTime": 1758797270389,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1758787558416_b_a",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "playerDetails": {
+      "a": [],
+      "b": []
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1758787596902,
+    "winner": null,
+    "startTime": 1758787558417,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1758787535346_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 3,
+      "b": 2
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 1 (1-3)"
+        }
+      ],
+      "b": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 2 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1758787553680,
+    "winner": "a",
+    "startTime": 1758787535347,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751529618528_b_a",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "playerDetails": {
+      "a": [],
+      "b": []
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "G",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "G",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751529648658,
+    "winner": null,
+    "startTime": 1751529618528,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751460665201_beldodo_a",
+    "players": [
+      "a",
+      "beldodo"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 2,
+      "beldodo": 0
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 3 (1-2)"
+        }
+      ],
+      "beldodo": []
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "beldodo": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751460679281,
+    "winner": "a",
+    "startTime": 1751460665201,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751459714843_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 0,
+      "b": 2
+    },
+    "playerDetails": {
+      "a": [],
+      "b": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 4 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "A",
+          ""
+        ],
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751459733056,
+    "winner": "b",
+    "startTime": 1751459714843,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751381531262_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 17,
+      "a": 16
+    },
+    "playerDetails": {
+      "b": [
+        {
+          "word": "yay",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "satır 3 (1-3)"
+        },
+        {
+          "word": "tat",
+          "start": 2,
+          "end": 5,
+          "score": 3,
+          "type": "satır 4 (3-5)"
+        },
+        {
+          "word": "say",
+          "start": 1,
+          "end": 4,
+          "score": 3,
+          "type": "satır 5 (2-4)"
+        },
+        {
+          "word": "yay",
+          "start": 1,
+          "end": 4,
+          "score": 3,
+          "type": "sütun 2 (2-4)"
+        },
+        {
+          "word": "ta",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "sütun 3 (4-5)"
+        },
+        {
+          "word": "yay",
+          "start": 2,
+          "end": 5,
+          "score": 3,
+          "type": "sütun 4 (3-5)"
+        }
+      ],
+      "a": [
+        {
+          "word": "yat",
+          "start": 1,
+          "end": 4,
+          "score": 3,
+          "type": "satır 3 (2-4)"
+        },
+        {
+          "word": "ya",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "satır 4 (2-3)"
+        },
+        {
+          "word": "as",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "satır 4 (4-5)"
+        },
+        {
+          "word": "yay",
+          "start": 2,
+          "end": 5,
+          "score": 3,
+          "type": "satır 5 (3-5)"
+        },
+        {
+          "word": "ta",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "sütun 3 (2-3)"
+        },
+        {
+          "word": "ay",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "sütun 3 (4-5)"
+        },
+        {
+          "word": "ta",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "sütun 4 (3-4)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "Y",
+          "Y",
+          "Y",
+          "Y",
+          "Y"
+        ],
+        [
+          "Y",
+          "Y",
+          "Y",
+          "Y",
+          "Y"
+        ],
+        [
+          "Y",
+          "A",
+          "Y",
+          "Y",
+          "Y"
+        ],
+        [
+          "Y",
+          "Y",
+          "T",
+          "A",
+          "T"
+        ],
+        [
+          "Y",
+          "S",
+          "A",
+          "Y",
+          "Y"
+        ]
+      ],
+      "a": [
+        [
+          "Y",
+          "Y",
+          "Y",
+          "Y",
+          "Y"
+        ],
+        [
+          "Y",
+          "Y",
+          "T",
+          "Y",
+          "Y"
+        ],
+        [
+          "Y",
+          "Y",
+          "A",
+          "T",
+          "Y"
+        ],
+        [
+          "Y",
+          "Y",
+          "A",
+          "A",
+          "S"
+        ],
+        [
+          "Y",
+          "Y",
+          "Y",
+          "A",
+          "Y"
+        ]
+      ]
+    },
+    "endedAt": 1751443567579,
+    "winner": "b",
+    "startTime": 1751381531262,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751381105373_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 21,
+      "a": 22
+    },
+    "playerDetails": {
+      "b": [
+        {
+          "word": "es",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "satır 1 (3-4)"
+        },
+        {
+          "word": "es",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 2 (1-2)"
+        },
+        {
+          "word": "as",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "satır 2 (4-5)"
+        },
+        {
+          "word": "ad",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "satır 4 (2-3)"
+        },
+        {
+          "word": "asa",
+          "start": 1,
+          "end": 4,
+          "score": 3,
+          "type": "satır 5 (2-4)"
+        },
+        {
+          "word": "as",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "sütun 1 (3-4)"
+        },
+        {
+          "word": "es",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 2 (1-2)"
+        },
+        {
+          "word": "as",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "sütun 3 (2-3)"
+        },
+        {
+          "word": "as",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "sütun 4 (2-3)"
+        },
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 5 (1-2)"
+        }
+      ],
+      "a": [
+        {
+          "word": "es",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "satır 2 (2-3)"
+        },
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 3 (1-2)"
+        },
+        {
+          "word": "as",
+          "start": 3,
+          "end": 5,
+          "score": 2,
+          "type": "satır 3 (4-5)"
+        },
+        {
+          "word": "asa",
+          "start": 1,
+          "end": 4,
+          "score": 3,
+          "type": "satır 5 (2-4)"
+        },
+        {
+          "word": "as",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "sütun 1 (3-4)"
+        },
+        {
+          "word": "es",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "sütun 2 (2-3)"
+        },
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 3 (1-2)"
+        },
+        {
+          "word": "es",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 4 (1-2)"
+        },
+        {
+          "word": "ada",
+          "start": 2,
+          "end": 5,
+          "score": 3,
+          "type": "sütun 4 (3-5)"
+        },
+        {
+          "word": "as",
+          "start": 1,
+          "end": 3,
+          "score": 2,
+          "type": "sütun 5 (2-3)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "E",
+          "E",
+          "E",
+          "S",
+          "A"
+        ],
+        [
+          "E",
+          "S",
+          "A",
+          "A",
+          "S"
+        ],
+        [
+          "A",
+          "G",
+          "S",
+          "S",
+          "S"
+        ],
+        [
+          "S",
+          "A",
+          "D",
+          "S",
+          "S"
+        ],
+        [
+          "S",
+          "A",
+          "S",
+          "A",
+          "A"
+        ]
+      ],
+      "a": [
+        [
+          "S",
+          "E",
+          "A",
+          "E",
+          "E"
+        ],
+        [
+          "A",
+          "E",
+          "S",
+          "S",
+          "A"
+        ],
+        [
+          "A",
+          "S",
+          "G",
+          "A",
+          "S"
+        ],
+        [
+          "S",
+          "S",
+          "S",
+          "D",
+          "S"
+        ],
+        [
+          "S",
+          "A",
+          "S",
+          "A",
+          "A"
+        ]
+      ]
+    },
+    "endedAt": 1751381685512,
+    "winner": "a",
+    "startTime": 1751380124074,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751355731390_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 3,
+      "b": 0
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 3 (1-3)"
+        }
+      ],
+      "b": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 1 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751355773904,
+    "winner": "a",
+    "startTime": 1751355731390,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751355731390_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 3,
+      "b": 2
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 3 (1-3)"
+        }
+      ],
+      "b": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 1 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751355741045,
+    "winner": "a",
+    "startTime": 1751355731390,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751289498847_b_a",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 2,
+      "b": 3
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 5 (1-2)"
+        }
+      ],
+      "b": [
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 2 (1-3)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "W",
+          "A"
+        ],
+        [
+          "",
+          "",
+          "A",
+          "Q",
+          "S"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "W",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "Q",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751355728455,
+    "winner": "b",
+    "startTime": 1751289498847,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751289480602_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "playerDetails": {
+      "a": [],
+      "b": []
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "A",
+          ""
+        ],
+        [
+          "",
+          "",
+          "W",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "W",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "W",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "W",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751289496010,
+    "winner": null,
+    "startTime": 1751289480602,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751286981162_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "playerDetails": {
+      "b": [],
+      "a": []
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "W",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "W",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751286994557,
+    "winner": null,
+    "startTime": 1751286981163,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751013167135_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 0,
+      "b": 3
+    },
+    "playerDetails": {
+      "a": [],
+      "b": [
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 3 (1-3)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751013181877,
+    "winner": "b",
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751013107303_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 0,
+      "a": 2
+    },
+    "playerDetails": {
+      "b": [],
+      "a": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 1 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "A",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751013164509,
+    "winner": "a",
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751013073073_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 3,
+      "a": 3
+    },
+    "playerDetails": {
+      "b": [
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 3 (1-3)"
+        }
+      ],
+      "a": [
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 2 (1-3)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751013092749,
+    "winner": null,
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1751013029731_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "playerDetails": {
+      "a": [],
+      "b": []
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1751013070216,
+    "winner": null,
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750856177467_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "playerDetails": {
+      "b": [],
+      "a": []
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "S",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1750856186206,
+    "winner": null,
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750856169488_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 2,
+      "a": 2
+    },
+    "playerDetails": {
+      "b": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 1 (1-2)"
+        }
+      ],
+      "a": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 1 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1750856175375,
+    "winner": null,
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750855108968_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "b": 5,
+      "a": 2
+    },
+    "playerDetails": {
+      "b": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 3 (1-2)"
+        },
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 2 (1-3)"
+        }
+      ],
+      "a": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 1 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1750855129211,
+    "winner": "b",
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750855097242_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 3,
+      "b": 2
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 1 (1-3)"
+        }
+      ],
+      "b": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 2 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1750855106569,
+    "winner": "a",
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750854594345_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {},
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "playerDetails": {
+      "a": [],
+      "b": []
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "Z",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "X",
+          "E",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "Z",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "X",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "E",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1750854607757,
+    "winner": null,
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750854020441_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 2
+    },
+    "playerDetails": {
+      "a": [],
+      "b": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 1 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "a": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "A",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1750854033138,
+    "winner": "b",
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750853113595_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 4,
+      "a": 5
+    },
+    "playerDetails": {
+      "b": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 3 (1-2)"
+        },
+        {
+          "word": "ağ",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "sütun 3 (3-4)"
+        }
+      ],
+      "a": [
+        {
+          "word": "sağ",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "satır 2 (1-3)"
+        },
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 1 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "S",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "Ğ",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "A",
+          "Ğ",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1750853128695,
+    "winner": "a",
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750846965095_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 3,
+      "a": 4
+    },
+    "playerDetails": {
+      "b": [
+        {
+          "word": "sos",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 2 (1-3)"
+        }
+      ],
+      "a": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 1 (1-2)"
+        },
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 1 (1-2)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "O",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "A",
+          "S",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "O",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1750846981673,
+    "winner": "a",
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750843674829_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 5,
+      "a": 5
+    },
+    "playerDetails": {
+      "b": [
+        {
+          "word": "sağ",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "satır 2 (1-3)"
+        },
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 1 (1-2)"
+        }
+      ],
+      "a": [
+        {
+          "word": "ağ",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 3 (1-2)"
+        },
+        {
+          "word": "asa",
+          "start": 0,
+          "end": 3,
+          "score": 3,
+          "type": "sütun 1 (1-3)"
+        }
+      ]
+    },
+    "playerBoards": {
+      "b": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "A",
+          "Ğ",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "S",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "A",
+          "Ğ",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "endedAt": 1750843687319,
+    "winner": null,
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750843255392_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 4,
+      "b": 6
+    },
+    "playerDetails": {
+      "a": [
+        {
+          "word": "la",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 4 (1-2)"
+        },
+        {
+          "word": "al",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 3 (1-2)"
+        }
+      ],
+      "b": [
+        {
+          "word": "la",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "satır 4 (1-2)"
+        },
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 2 (1-2)"
+        },
+        {
+          "word": "al",
+          "start": 2,
+          "end": 4,
+          "score": 2,
+          "type": "sütun 2 (3-4)"
+        }
+      ]
+    },
+    "endedAt": 1750843277281,
+    "winner": "b",
+    "startTime": null,
+    "totalTurns": null
+  },
+  {
+    "gameId": "1750761822415_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "endedAt": 1750761827780,
+    "winner": null
+  },
+  {
+    "gameId": "1750762261658_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 2,
+      "a": 2
+    },
+    "endedAt": 1750762267773,
+    "winner": null
+  },
+  {
+    "gameId": "1750762478235_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "endedAt": 1750762482258,
+    "winner": null
+  },
+  {
+    "gameId": "1750762497364_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 4,
+      "a": 4
+    },
+    "endedAt": 1750762516340,
+    "winner": null
+  },
+  {
+    "gameId": "1750762862756_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "endedAt": 1750762866331,
+    "winner": null
+  },
+  {
+    "gameId": "1750763044523_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 2,
+      "a": 2
+    },
+    "endedAt": 1750763051761,
+    "winner": null
+  },
+  {
+    "gameId": "1750763482386_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "endedAt": 1750763485619,
+    "winner": null
+  },
+  {
+    "gameId": "1750764060841_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "endedAt": 1750764065431,
+    "winner": null
+  },
+  {
+    "gameId": "1750764068792_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 3,
+      "a": 3
+    },
+    "endedAt": 1750764080002,
+    "winner": null
+  },
+  {
+    "gameId": "1750764082272_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 2,
+      "a": 2
+    },
+    "endedAt": 1750764090394,
+    "winner": null
+  },
+  {
+    "gameId": "1750768726518_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "endedAt": 1750768738548,
+    "winner": null
+  },
+  {
+    "gameId": "1750768743453_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 2,
+      "a": 2
+    },
+    "endedAt": 1750768753102,
+    "winner": null
+  },
+  {
+    "gameId": "1750768755291_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 3,
+      "b": 3
+    },
+    "endedAt": 1750768764728,
+    "winner": null
+  },
+  {
+    "gameId": "1750775476975_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 24,
+      "a": 26
+    },
+    "endedAt": 1750775572915,
+    "winner": "a"
+  },
+  {
+    "gameId": "1750776252097_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 2,
+      "a": 2
+    },
+    "endedAt": 1750776263593,
+    "winner": null
+  },
+  {
+    "gameId": "1750776386052_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 8,
+      "a": 8
+    },
+    "endedAt": 1750776461722,
+    "winner": null
+  },
+  {
+    "gameId": "1750776967402_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 21,
+      "a": 21
+    },
+    "endedAt": 1750777115842,
+    "winner": null
+  },
+  {
+    "gameId": "1750777519406_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 8,
+      "a": 8
+    },
+    "endedAt": 1750777612983,
+    "winner": null
+  },
+  {
+    "gameId": "1750778014091_b_a",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 2,
+      "b": 0
+    },
+    "endedAt": 1750778025370,
+    "winner": "a"
+  },
+  {
+    "gameId": "1750778038978_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "endedAt": 1750778044083,
+    "winner": null
+  },
+  {
+    "gameId": "1750778050523_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "endedAt": 1750778054842,
+    "winner": null
+  },
+  {
+    "gameId": "1750833138333_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 3,
+      "b": 4
+    },
+    "endedAt": 1750833154895,
+    "winner": "b"
+  },
+  {
+    "gameId": "1750833924746_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 5,
+      "b": 4
+    },
+    "endedAt": 1750833939354,
+    "winner": "a"
+  },
+  {
+    "gameId": "1750834155331_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 4,
+      "b": 5
+    },
+    "endedAt": 1750834173246,
+    "winner": "b"
+  },
+  {
+    "gameId": "1750834330126_b_a",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "endedAt": 1750834338473,
+    "winner": null
+  },
+  {
+    "gameId": "1750834347618_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "endedAt": 1750834358107,
+    "winner": null
+  },
+  {
+    "gameId": "1750834363436_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "endedAt": 1750834376596,
+    "winner": null
+  },
+  {
+    "gameId": "1750835128398_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "endedAt": 1750835132118,
+    "winner": null
+  },
+  {
+    "gameId": "1750835135306_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "endedAt": 1750835148293,
+    "winner": null
+  },
+  {
+    "gameId": "1750835156484_b_a",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "endedAt": 1750835181684,
+    "winner": null
+  },
+  {
+    "gameId": "1750835190784_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 0,
+      "a": 0
+    },
+    "endedAt": 1750835205593,
+    "winner": null
+  },
+  {
+    "gameId": "1750836502757_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 2,
+      "a": 2
+    },
+    "endedAt": 1750836509701,
+    "winner": null
+  },
+  {
+    "gameId": "1750837366305_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 3,
+      "b": 3
+    },
+    "endedAt": 1750837376998,
+    "winner": null
+  },
+  {
+    "gameId": "1750837831123_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 25,
+      "a": 28
+    },
+    "endedAt": 1750837891777,
+    "winner": "a"
+  },
+  {
+    "gameId": "1750837831123_a_b",
+    "players": [
+      "a",
+      "b"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "a": 0,
+      "b": 0
+    },
+    "endedAt": 1750838762554,
+    "winner": null
+  },
+  {
+    "gameId": "1750839171155_a_b",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 2,
+      "a": 2
+    },
+    "endedAt": 1750839177950,
+    "winner": null
+  },
+  {
+    "gameId": "1750842963811_b_a",
+    "players": [
+      "b",
+      "a"
+    ],
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    "finalScores": {
+      "b": 0,
+      "a": 2
+    },
+    "playerDetails": {
+      "b": [],
+      "a": [
+        {
+          "word": "as",
+          "start": 0,
+          "end": 2,
+          "score": 2,
+          "type": "sütun 4 (1-2)"
+        }
+      ]
+    },
+    "endedAt": 1750842971945,
+    "winner": "a",
+    "startTime": null,
+    "totalTurns": null
+  }
+]

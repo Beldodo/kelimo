@@ -1,0 +1,4286 @@
+[
+  {
+    "gameId": "1758787558416_b_a",
+    "players": []
+  },
+  {
+    "gameId": "1758796924252_b_a",
+    "players": [
+      {
+        "username": "b",
+        "board": [
+          [
+            "A",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": false,
+        "turnPhase": null,
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758796924252_b_a"
+      },
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": true,
+        "turnPhase": null,
+        "letterToPlace": "A",
+        "tempLetterPlacement": null,
+        "gameId": "1758796924252_b_a"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758796924253,
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758797875540_beldodo_a",
+    "players": [
+      {
+        "username": "beldodo",
+        "board": [
+          [
+            "K",
+            "U",
+            "M",
+            "A",
+            "R"
+          ],
+          [
+            "U",
+            "Ü",
+            "A",
+            "R",
+            "U"
+          ],
+          [
+            "M",
+            "I",
+            "D",
+            "Ü",
+            "M"
+          ],
+          [
+            "A",
+            "Z",
+            "A",
+            "R",
+            "U"
+          ],
+          [
+            "R",
+            "U",
+            "M",
+            "U",
+            "Z"
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758797875540_beldodo_a"
+      },
+      {
+        "username": "a",
+        "board": [
+          [
+            "K",
+            "A",
+            "M",
+            "U",
+            "R"
+          ],
+          [
+            "U",
+            "R",
+            "Ü",
+            "U",
+            "U"
+          ],
+          [
+            "R",
+            "I",
+            "D",
+            "A",
+            "M"
+          ],
+          [
+            "U",
+            "Z",
+            "Ü",
+            "M",
+            "U"
+          ],
+          [
+            "M",
+            "A",
+            "R",
+            "A",
+            "Z"
+          ]
+        ],
+        "score": 47,
+        "movesMade": 0,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758797875540_beldodo_a"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "ownLetterPlacement",
+    "startTime": 1758797875541,
+    "boardStates": {
+      "beldodo": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758797875540_beldodo_a",
+    "players": []
+  },
+  {
+    "gameId": "1758801638480_sergino_a",
+    "players": [
+      {
+        "username": "sergino",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": null,
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758801638480_sergino_a"
+      },
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": null,
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758801638480_sergino_a"
+      }
+    ],
+    "currentTurn": "sergino",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758801638481,
+    "boardStates": {
+      "sergino": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758802538352_a_sergino",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "A",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "R",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "D",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 3,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758802538352_a_sergino"
+      },
+      {
+        "username": "sergino",
+        "board": [
+          [
+            "A",
+            "R",
+            "",
+            "D",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 2,
+        "movesMade": 3,
+        "myTurn": true,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": {
+          "letter": "C",
+          "row": 3,
+          "col": 2
+        },
+        "gameId": "1758802538352_a_sergino"
+      }
+    ],
+    "currentTurn": "sergino",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758802538352,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "sergino": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758803690119_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": true,
+        "turnPhase": null,
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758803690119_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": null,
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758803690119_a_b"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758803690119,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758804115902_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758804115902_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": null,
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758804115902_a_b"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758804115903,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758878236155_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": null,
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758878236155_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": null,
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758878236155_a_b"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758878236155,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758878288046_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": "A",
+        "tempLetterPlacement": null,
+        "gameId": "1758878288046_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "A",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758878288046_a_b"
+      }
+    ],
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758878288046,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758881609066_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758881609066_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": "S",
+        "tempLetterPlacement": null,
+        "gameId": "1758881609066_a_b"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758881609066,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758883991667_b_a",
+    "players": [
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758883991667_b_a"
+      },
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": true,
+        "turnPhase": null,
+        "letterToPlace": "S",
+        "tempLetterPlacement": null,
+        "gameId": "1758883991667_b_a"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758883991667,
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758885118883_b_a",
+    "players": [
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "A",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758885118883_b_a"
+      },
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": "A",
+        "tempLetterPlacement": null,
+        "gameId": "1758885118883_b_a"
+      }
+    ],
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758885118884,
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1758896119344_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "A",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 2,
+        "movesMade": 2,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758896119344_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "A",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 2,
+        "movesMade": 2,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1758896119344_a_b"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1758896119344,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759210502191_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "S",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "S",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 2,
+        "myTurn": true,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759210502191_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 2,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759210502191_a_b"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759210502191,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759211057764_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759211057764_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": null,
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759211057764_a_b"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759211057764,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759211156180_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "A",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759211156180_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "A",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759211156180_a_b"
+      }
+    ],
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759211156180,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759211819828_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759211819828_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759211819828_a_b"
+      }
+    ],
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759211819829,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759212154484_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "A",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 2,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759212154484_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "A",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 2,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759212154484_a_b"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759212154484,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759212496153_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "A",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759212496153_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "A",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759212496153_a_b"
+      }
+    ],
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759212496153,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759212900368_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759212900368_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759212900368_a_b"
+      }
+    ],
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759212900369,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759213926535_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "D",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759213926535_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "D",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759213926535_a_b"
+      }
+    ],
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759213926535,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759214906634_b_a",
+    "players": [
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759214906634_b_a"
+      },
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759214906634_b_a"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759214906634,
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759215218018_b_a",
+    "players": [
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "S",
+            "",
+            "S",
+            ""
+          ],
+          [
+            "",
+            "",
+            "D",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 3,
+        "myTurn": true,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": "A",
+        "tempLetterPlacement": null,
+        "gameId": "1759215218018_b_a"
+      },
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "A",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "S",
+            "S",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "D",
+            ""
+          ]
+        ],
+        "score": 2,
+        "movesMade": 4,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759215218018_b_a"
+      }
+    ],
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759215218018,
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759216847163_b_a",
+    "players": [
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 1,
+        "myTurn": true,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": "A",
+        "tempLetterPlacement": null,
+        "gameId": "1759216847163_b_a"
+      },
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "A",
+            "S",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 2,
+        "movesMade": 2,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759216847163_b_a"
+      }
+    ],
+    "currentTurn": "b",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759216847163,
+    "boardStates": {
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  },
+  {
+    "gameId": "1759217331537_a_b",
+    "players": [
+      {
+        "username": "a",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "S",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": "opponentLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759217331537_a_b"
+      },
+      {
+        "username": "b",
+        "board": [
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "A",
+            "S",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "score": 0,
+        "movesMade": 0,
+        "myTurn": false,
+        "turnPhase": "ownLetterPlacement",
+        "letterToPlace": null,
+        "tempLetterPlacement": null,
+        "gameId": "1759217331537_a_b"
+      }
+    ],
+    "currentTurn": "a",
+    "phase": "opponentLetterPlacement",
+    "startTime": 1759217331538,
+    "boardStates": {
+      "a": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "b": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  }
+]
